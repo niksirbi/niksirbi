@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋 I'm Niko
 
-<!--
-**niksirbi/niksirbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A [Research Software Engineer](https://society-rse.org/) at the [Neuroinformatics Unit](https://neuroinformatics.dev/), based within the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit).
 
-Here are some ideas to get you started:
+I'm developing and maintaining software tools for neuroscientists, focusing on the preprocessing and analysis of behavioural data.
+Previously, I worked in the field of neuroimaging and I'm still into computational neuroanatomy and brain atlases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [movement](https://github.com/neuroinformatics-unit/movement) and [NeuroBlueprint](https://neuroblueprint.neuroinformatics.dev/)
+- 🌱 I’m learning about [probability theory](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/pages/syllabus/), HPC clusters, [napari](https://napari.org/stable/), [quarto](https://quarto.org/)
+- 💬 Ask me about 🧠 brain anatomy and imaging, 😴 anesthesia, 📈 dataviz, 🧑‍🔬 open science.
+
+### Connect with me
+<p align="left"> <a href="https://neuromatch.social/@niksirbi" target="blank"><img src="https://img.shields.io/mastodon/follow/109525327849853991?domain=https%3A%2F%2Fneuromatch.social&style=for-the-badge&logo=mastodon&label=mastodon" alt="niksirbi" /></a> </p>
