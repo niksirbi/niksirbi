@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Niko
 
-A [Research Software Engineer](https://society-rse.org/) at the [Neuroinformatics Unit](https://neuroinformatics.dev/), based within the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit).
+I'm a [Research Software Engineer](https://society-rse.org/) at the [Neuroinformatics Unit](https://neuroinformatics.dev/), based within the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit).
 
 I'm developing and maintaining software tools for neuroscientists, focusing on the preprocessing and analysis of behavioural data.
 Previously, I worked in the field of neuroimaging and I'm still into computational neuroanatomy and brain atlases.
 
 - 🔭 I’m currently working on [movement](https://github.com/neuroinformatics-unit/movement) and [NeuroBlueprint](https://neuroblueprint.neuroinformatics.dev/)
-- 🌱 I’m learning about [probability theory](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/pages/syllabus/), HPC clusters, [napari](https://napari.org/stable/), [quarto](https://quarto.org/)
+- 🌱 I’m learning about [ML](https://www.cs.cornell.edu/courses/cs4780/2018fa/), HPC clusters, [napari](https://napari.org/stable/), [quarto](https://quarto.org/)
 - 💬 Ask me about 🧠 brain anatomy and imaging, 😴 anesthesia, 📈 dataviz, 🧑‍🔬 open science.
 
 ### Connect with me
